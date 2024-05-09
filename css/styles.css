@@ -1,0 +1,95 @@
+.business-card {
+  width: 1050px;
+  height: 600px;
+  background-color: #000;
+  margin: 100px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: rgb(230, 107, 244);
+  font-size: 70px;
+  font-family: helvetica;
+  margin-top: 70px;
+  letter-spacing: .125rem;
+}
+
+.bar {
+  height: 5px;
+  width: 900px;
+  background-color: rgb(83, 213, 107);
+}
+
+.top {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.phone-number {
+  color: #fff;
+  font-size: 60px;
+  margin-top: 52px;
+  margin-bottom: 52px;
+  letter-spacing: .45rem;
+  font-family: century;
+  font-weight: 400;
+}
+
+.address {
+  color: #fff;
+  font-size: 35px;
+  margin-top: 32px;
+  letter-spacing: .35rem;
+  font-family: Helvetica, sans-serif;
+  font-weight: 200;
+}
+
+.mid {
+  margin-top: 0;
+}
+
+
+
+.menu-title {
+  color: rgb(230, 107, 244);
+  font-size: 50px;
+  font-family: helvetica;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  letter-spacing: .125rem;
+}
+
+.back {
+  margin-top: 18px;
+}
+
+
+
+.item {
+  color: white;
+  font-size: 30px;
+  font-family: Helvetica, sans-serif;
+  margin-top: 30px;
+  letter-spacing: .2rem;
+  word-spacing: 20px;
+  text-align: center;
+}
+
+
+.floof {
+  font-size: 40px;
+  color: white;
+}
+
+.top-row {
+  margin-top: 30px;
+}
+
+.soul-food {
+  margin-top: 140px;
+  word-spacing: .2rem;
+  font-size: 35px;
+  color: rgb(83, 213, 107);
+}
